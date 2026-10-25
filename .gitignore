@@ -1,0 +1,17 @@
+# État d'Obsidian : change à chaque clic, n'a rien à faire dans l'historique
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace*.json
+.trash/
+
+# Doublons et conflits de synchronisation
+*(1).md
+*conflit*
+*conflicted*
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Zone de travail hors historique
+_work/
