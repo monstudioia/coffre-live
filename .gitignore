@@ -1,7 +1,5 @@
 # État d'Obsidian : change à chaque clic, n'a rien à faire dans l'historique
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/workspace*.json
+.obsidian/*
 .trash/
 
 # Doublons et conflits de synchronisation
